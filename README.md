@@ -8,4 +8,4 @@ Through this industry capstone project, I worked on developing real-time video a
 
 The poster below showcases the achievements from this industry capstone project.
 
-![poster](Project poster.png)
+![poster](https://github.com/homerjack/Real-time-video-analytics/blob/master/Project%20poster.png)
